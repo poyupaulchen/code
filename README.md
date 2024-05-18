@@ -14,3 +14,4 @@
 $e = mc^2$
 we have
 $$a^2+2\cdot y $$
+$e = mc^2$
