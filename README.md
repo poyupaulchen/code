@@ -12,4 +12,4 @@
 
 $e = mc^2$
 we have
-$$a^2+2\cdoty $$
+$$a^2+2\cdot y $$
