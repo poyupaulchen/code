@@ -17,9 +17,7 @@
 $e = mc^2$ and $e = mc^2$
 
 we have
-$$
-\begin{align*}
+$$\begin{align*}
 &a^2+2\cdoty \\
 &a+b
-\end{align*}
-$$
+\end{align*}$$
