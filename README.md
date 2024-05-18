@@ -17,8 +17,4 @@
 $e = mc^2$ and $e = mc^2$
 
 we have
-$$
-\textbf{q}_t = f_q(\textbf{x}_t)\\
-\textbf{k}_t = f_k(\textbf{x}_t)\\
-\textbf{v}_t = f_v(\textbf{x}_t),
-$$
+$$a^2 + b^2$$
