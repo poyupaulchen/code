@@ -5,10 +5,7 @@
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
             inlineMath: [['$','$']],
-            displayMath: [             // start/end delimiter pairs for display math
-                  ['$$', '$$'],
-                  ['\\[', '\\]']
-                ],
+            displayMath: [['$$', '$$']],
             }
         });
     </script>
