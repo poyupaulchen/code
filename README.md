@@ -18,6 +18,6 @@ $e = mc^2$ and $e = mc^2$
 
 we have
 $$\begin{align*}
-&a^2+2\cdoty \\
+&a^2+2\cdot y \\
 &a+b
 \end{align*}$$
