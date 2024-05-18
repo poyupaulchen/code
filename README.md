@@ -4,8 +4,8 @@
         MathJax.Hub.Config({
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [ ['$','$'], ['\\(','\\)'] ],
-            displayMath: [ ['$$','$$'], ['\[','\]'] ],
+            inlineMath: [ ['$','$'] ],
+            displayMath: [ ['$$','$$'] ],
             processEscapes: true,      // use \$ to produce a literal dollar sign
             processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
             processRefs: true,         // process \ref{...} outside of math mode
@@ -17,6 +17,8 @@
 $e = mc^2$ and $e = mc^2$
 
 we have
-$$\textbf{q}_t = f_q(\textbf{x}_t)\\
+$$
+\textbf{q}_t = f_q(\textbf{x}_t)\\
 \textbf{k}_t = f_k(\textbf{x}_t)\\
-\textbf{v}_t = f_v(\textbf{x}_t),$$
+\textbf{v}_t = f_v(\textbf{x}_t),
+$$
