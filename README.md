@@ -5,7 +5,10 @@
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
             inlineMath: [ ['$','$'], ['\\(','\\)'] ],
-            displayMath: [ ['$$','$$'], ['\[','\]'] ]
+            displayMath: [ ['$$','$$'], ['\[','\]'] ],
+            processEscapes: true,      // use \$ to produce a literal dollar sign
+            processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
+            processRefs: true,         // process \ref{...} outside of math mode
             }
         });
     </script>
